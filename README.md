@@ -1,1 +1,2 @@
-A list of websites and their corresponding languages I have found to be helpful.
+# Welcome to my first ever personal coding project! 
+This Documentation Table is a list of helpful websites and their corresponding languages. I created this table to keep track of my progress as I was first learning to code. It would later serve as the inspiration for my [Resource Hub](https://sopreoccupied.github.io/Home), which kept track of all the wonderful things we were learning in my SEI bootcamp.
